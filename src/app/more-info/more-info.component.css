@@ -1,0 +1,29 @@
+.info{
+    background: url("../../assets/prague.jpg");
+    text-align: center;
+    background-size: cover;
+    height:fit-content;
+    color: white;
+   
+}
+.title{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px;
+}
+.info-all{
+    background-color: black;
+    opacity: 0.6;
+    padding: 20px;
+    
+}
+.icon {
+    width: 200px;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 60px;
+    border: 1px white solid; 
+    border-radius: 50%;
+  
+}

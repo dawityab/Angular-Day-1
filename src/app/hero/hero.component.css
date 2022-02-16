@@ -1,0 +1,20 @@
+.bg-light{
+    background: url("../../assets/hero-image.jpg");
+    color: rgb(220, 220, 220);
+    background-size: cover;
+    height: fit-content;
+    font-family: 'Archivo Black', sans-serif;
+    width: 100%;
+
+}
+
+.hero-container{
+    
+    padding-top: 80px;
+    
+    font-weight: bolder;
+}
+.hero-btn{
+    margin-bottom: 30px;
+   
+}
